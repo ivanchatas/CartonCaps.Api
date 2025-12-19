@@ -1,0 +1,12 @@
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\bin\Debug\net9.0\Domain.dll
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\obj\Debug\net9.0\Domain.dll
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\Repositories\Ivanchatas\CartonCaps.Api\src\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
