@@ -34,7 +34,7 @@ namespace Application.Services
         public string GenerateReferralLink(string channel, string referralCode)
         {
             var shareUrl = $"{_settings.ReferralBaseUrl}{referralCode}";
-            var message = channel.ToLower() == ChannelType.email.ToString() ? MessagesByChannel.Email : MessagesByChannel.Sms;
+            var message = channel.ToLower() == ChannelType.email.ToString().ToLower() ? MessagesByChannel.Email : MessagesByChannel.Sms;
             return message + $" {shareUrl}";
         }
 
@@ -97,8 +97,10 @@ namespace Application.Services
                     referral.UpdatedAt = DateTime.UtcNow;
 
                     await _repository.UpdateAsync(referral);
+                    return;
                 }
             }
+
             throw new KeyNotFoundException();
         }
 
