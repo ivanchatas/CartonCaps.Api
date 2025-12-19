@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CartonCaps.Api/CopilotIndices/17.13.441.19478/SemanticSymbols.db-shm
+/tests/Api.Tests/obj/Debug/net9.0/Api.Tests.AssemblyInfo.cs
+*.db-wal
+*.vsidx
+/.vs/CartonCaps.Api/FileContentIndex/a6350613-563d-4d4c-88e6-8b2a23ef7b4a.vsidx
+/.vs/CartonCaps.Api/FileContentIndex/cd9be529-1d88-4c69-b98d-56a534b8a34f.vsidx
+/tests/Api.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_Api.Tests
+/tests/Api.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_Api.Tests
+/tests/Api.Tests/obj/Debug/net9.0/Api.Tests.AssemblyInfoInputs.cache
+/tests/Application.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_Application.Tests
+/tests/Application.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_Application.Tests
+/tests/Application.Tests/obj/Debug/net9.0/Application.Tests.AssemblyInfoInputs.cache
+/tests/Application.Tests/obj/Debug/net9.0/Application.Tests.AssemblyInfo.cs
